@@ -89,28 +89,64 @@
 
 
     const myQuestions = [{
-            question: "1.This is a sample question:", ///// Write the question inside double quotes
+            question: "1. In the experiment we have seen graphs where in the Y-axis there is "Milli-degrees". It is a measurement of ____________ ?", ///// Write the question inside double quotes
             answers: {
-                a: "This is a sample answer A", ///// Write the option 1 inside double quotes
-                b: "This is a sample answer B", ///// Write the option 2 inside double quotes
+                a: "angle of rotation", ///// Write the option 1 inside double quotes
+                b: "Specific rotation", ///// Write the option 2 inside double quotes
+		c: "Ellipticity", ///// Write the option 1 inside double quotes
+                d: "None of the above are correct", ///// Write the option 2 inside double quotes
+
+		
             },
-            correctAnswer: "a" ///// Write the correct option inside double quotes
+            correctAnswer: "c" ///// Write the correct option inside double quotes
         },
 
     {
-      question: "<img src='images/8.PNG'><br>Identify the location of Secondary electron detector",  ///// Write the question inside double quotes
+      question: "2. CONTIN is __________ based process of deconvolution.",  ///// Write the question inside double quotes
       answers: {
-        a: "<img src='images/1b.png'>",                  ///// Write the option 1 inside double quotes
-        b: "<img src='images/1a.png'>",                  ///// Write the option 2 inside double quotes
-        c: "<img src='images/1c.PNG'>",      },
-      correctAnswer: "c"                ///// Write the correct option inside double quotes
+        a: "Linear regression.", ///// Write the option 1 inside double quotes
+        b: "Ridge Regression.", ///// Write the option 2 inside double quotes
+        c: "Neural network.",
+	d: "None of the above are correct"  
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
     },
 
+     {
+      question: "3. Which one of the following is a Neural Network based method of Deconvolution? ",  ///// Write the question inside double quotes
+      answers: {
+        a: "CONTIN.", ///// Write the option 1 inside double quotes
+        b: "K2D.", ///// Write the option 2 inside double quotes
+        c: "SVD.",
+	d: "All of the above are correct"  
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
 
-        
+     {
+      question: "4.  If alpha helical and beta sheet regions occur in independent regions of a protein molecule, it will be counted under _______________ class. ",  ///// Write the question inside double quotes
+      answers: {
+        a: "Alpha + Beta.", ///// Write the option 1 inside double quotes
+        b: "Alpha/Beta.", ///// Write the option 2 inside double quotes
+        c: "All alpha.",
+	d: "None of the above are correct"  
+      },
+      correctAnswer: "a"                ///// Write the correct option inside double quotes
+    },
+			 
+      {
+      question: "5. 
+Ribonuclease A is an example of _______________ class.",  ///// Write the question inside double quotes
+      answers: {
+        a: "All alpha.", ///// Write the option 1 inside double quotes
+        b: "Alpha + beta.", ///// Write the option 2 inside double quotes
+        c: "Alpha + beta.",
+	d: "Alpha + beta."  
+      },
+      correctAnswer: "b"                ///// Write the correct option inside double quotes
+    },
+			 
     ];
-
-
 
 
     /////////////////////////////////////////////////////////////////////////////
