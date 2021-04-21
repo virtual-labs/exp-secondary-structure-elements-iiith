@@ -1,0 +1,1 @@
+## To deconvolute the CD spectrum of a given protein solution and to classify it in terms of its secondary structure elements
