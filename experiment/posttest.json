@@ -1,0 +1,47 @@
+[
+{"question":"1. In the experiment we have seen graphs where in the Y-axis there is 'Milli-degrees'. It is a measurement of ____________ ?",
+"answers":{
+         "a":"angle of rotation",
+         "b":"Specific rotation",
+         "c":"Ellipticity",
+         "d":"None of the above are correct"
+         },
+"correctanswers":"c"},
+
+{"question":"2. CONTIN is __________ based process of deconvolution. ",
+"answers":{
+         "a":"Linear regression.",
+         "b":"Ridge Regression.",
+         "c":"Neural network.",
+         "d":"None of the above are correct"
+         },
+"correctanswers":"b"},
+
+{"question":"3. Which one of the following is a Neural Network based method of Deconvolution?",
+"answers":{
+         "a":"CONTIN.",
+         "b":"K2D.",
+         "c":"SVD.",
+         "d":"All of the above are correct"
+         },
+"correctanswers":"b"},
+
+{"question":"4. If alpha helical and beta sheet regions occur in independent regions of a protein molecule, it will be counted under _______________ class. ",
+"answers":{
+         "a":"Alpha + Beta.",
+         "b":"Alpha/Beta.",
+         "c":"All alpha.",
+         "d":"None of the above are correct."
+         },
+"correctanswers":"a"},
+
+{"question":"5. Ribonuclease A is an example of _______________ class. ",
+"answers":{
+         "a":"All alpha",
+         "b":"Alpha + beta",
+         "c":"Alpha/beta",
+         "d":"Alpha - beta"
+         },
+"correctanswers":"b"}
+
+]

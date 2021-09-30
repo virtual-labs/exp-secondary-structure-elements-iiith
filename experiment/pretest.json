@@ -1,0 +1,29 @@
+[
+{"question":"1. A real protein is composed of",
+"answers":{
+         "a":"only alpha helix",
+         "b":"only beta sheet",
+         "c":"combination of alpha helix and beta sheet",
+         "d":"combination of all possible secondary structures"
+         },
+"correctanswers":"d"},
+
+{"question":"2. CD spectrum of each individual secondary structures ______________ among themselves to form the CD spectrum of the real protein. ",
+"answers":{
+         "a":"Convolute",
+         "b":"Deconvolute",
+         "c":"Rearrange",
+         "d":"Add up"
+         },
+"correctanswers":"a"},
+
+{"question":"3. How to extract information of secondary structures from a real CD spectra of a protein?",
+"answers":{
+         "a":"It is never possible to get information about a particular secondary structure",
+         "b":"We need to have CD spectrum at different concentration of the protein. Then perform a statistical analysis",
+         "c":"Mathematically we can deconvolute the CD spectrum of a real protein",
+         "d":"Only for a few number of proteins it is possible not for all"
+         },
+"correctanswers":"c"}
+
+]
