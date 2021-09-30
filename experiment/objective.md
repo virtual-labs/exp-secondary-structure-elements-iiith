@@ -3,4 +3,3 @@
 1. Different techniques of deconvolution of CD spectrum of a protein sample.  
 2. How to get information about secondary structures of a protein from its CD spectra.  
 3. How to classify a protein sample in terms of its secondary structure elements.  
-
