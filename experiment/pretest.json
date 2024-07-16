@@ -6,7 +6,7 @@
          "c":"combination of alpha helix and beta sheet",
          "d":"combination of all possible secondary structures"
          },
-"correctanswers":"d"},
+"correctAnswer":"d"},
 
 {"question":"2. CD spectrum of each individual secondary structures ______________ among themselves to form the CD spectrum of the real protein. ",
 "answers":{
@@ -15,7 +15,7 @@
          "c":"Rearrange",
          "d":"Add up"
          },
-"correctanswers":"a"},
+"correctAnswer":"a"},
 
 {"question":"3. How to extract information of secondary structures from a real CD spectra of a protein?",
 "answers":{
@@ -24,6 +24,6 @@
          "c":"Mathematically we can deconvolute the CD spectrum of a real protein",
          "d":"Only for a few number of proteins it is possible not for all"
          },
-"correctanswers":"c"}
+"correctAnswer":"c"}
 
 ]
