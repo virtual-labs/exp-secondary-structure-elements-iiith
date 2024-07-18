@@ -6,7 +6,7 @@
          "c":"Ellipticity",
          "d":"None of the above are correct"
          },
-"correctanswers":"c"},
+"correctAnswer":"c"},
 
 {"question":"2. CONTIN is __________ based process of deconvolution. ",
 "answers":{
@@ -15,7 +15,7 @@
          "c":"Neural network.",
          "d":"None of the above are correct"
          },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"3. Which one of the following is a Neural Network based method of Deconvolution?",
 "answers":{
@@ -24,7 +24,7 @@
          "c":"SVD.",
          "d":"All of the above are correct"
          },
-"correctanswers":"b"},
+"correctAnswer":"b"},
 
 {"question":"4. If alpha helical and beta sheet regions occur in independent regions of a protein molecule, it will be counted under _______________ class. ",
 "answers":{
@@ -33,7 +33,7 @@
          "c":"All alpha.",
          "d":"None of the above are correct."
          },
-"correctanswers":"a"},
+"correctAnswer":"a"},
 
 {"question":"5. Ribonuclease A is an example of _______________ class. ",
 "answers":{
@@ -42,6 +42,6 @@
          "c":"Alpha/beta",
          "d":"Alpha - beta"
          },
-"correctanswers":"b"}
+"correctAnswer":"b"}
 
 ]
